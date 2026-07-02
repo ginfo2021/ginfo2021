@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Welcome to GInfomedia Solutions
 
-<!--
-**ginfo2021/ginfo2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Company
 
-Here are some ideas to get you started:
+We help businesses automate operations using Artificial Intelligence, AI Agents, and Workflow Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Our Expertise
+
+- AI Automation Services
+- AI Agent Development
+- AI Chatbot Development
+- Voice AI Agents
+- RAG Development
+- Model Context Protocol (MCP)
+- Workflow Automation
+- WhatsApp AI Automation
+- CRM & ERP Integration
+- Custom Software Development
+
+### 🏢 Industries We Serve
+
+- Manufacturing
+- Healthcare
+- Real Estate
+- Finance
+- Education
+- Logistics
+- Retail
+
+### 🛠 Technologies
+
+OpenAI • Claude • Gemini • n8n • Node.js • React • Next.js • Laravel • Python • MongoDB • PostgreSQL
+
+### 🌐 Website
+
+https://ginfomedia.in/ai-automation-services
+
+### 📖 Latest Blogs
+
+- https://ginfomedia.in/model-context-protocol-mcp-business-guide
+- https://ginfomedia.in/blog
+
+### 📩 Contact
+
+🌐 https://ginfomedia.in
+
+📧 info@ginfomedia.in
+
+📍 Mumbai, India
